@@ -36,6 +36,7 @@ Ioter acts as Mate/Helper to developers, testers and device manufacturers involv
     ![nordic_nrf52840_dongle](https://github.com/Samsung/ioter/blob/main/res/doc/nordic_nrf52840_dongle.png)
     2. **Nordic nrf52840-DK board** [OT RCP board guide](https://openthread.io/codelabs/openthread-hardware#3)   
     ![nrf52840dk](https://github.com/Samsung/ioter/blob/main/res/doc/nrf52840dk.png)
+    3. **Silicon Labs EFR32MG** [OpenThread on EFR32 guide](https://github.com/SiliconLabs/ot-efr32/blob/main/src/README.md)
 
 - Samsung SmartThings with SmartThings hub or SmartThings Station / Apple Home app with Homepod2 or Homepod mini
 ![sam_app](https://github.com/Samsung/ioter/blob/main/res/doc/sam_app.png)
